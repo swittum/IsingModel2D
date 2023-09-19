@@ -1,6 +1,9 @@
 # Large files
 .h5
 
+# Old animation
+animation.mp4
+
 # Executables
 ising
 
