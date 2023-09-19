@@ -1,0 +1,11 @@
+# Large files
+.h5
+
+# Executables
+ising
+
+# Settings
+.vscode/
+
+# Stuff
+.DS_Store/
